@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>Dataset</folder>
+	<filename>File 223.JPG</filename>
+	<path>/Users/rizalhilman/Final Project/Dataset/File 223.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>340</width>
+		<height>453</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ID_1_A1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>54</ymin>
+			<xmax>259</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ID_2_A1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>287</ymin>
+			<xmax>314</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>

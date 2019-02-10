@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Dataset</folder>
+	<filename>File 357.jpeg</filename>
+	<path>/Users/rizalhilman/Final Project/Dataset/File 357.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ID_2_A1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>107</ymin>
+			<xmax>285</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>

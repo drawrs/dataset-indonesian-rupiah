@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Dataset</folder>
+	<filename>File 390.jpeg</filename>
+	<path>/Users/rizalhilman/Final Project/Dataset/File 390.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>393</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ID_50_B1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>275</ymin>
+			<xmax>296</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>

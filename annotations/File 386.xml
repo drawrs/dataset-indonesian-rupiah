@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>File 386.jpeg</filename>
+	<path>/Users/rizalhilman/Final Project/Dataset/File 386.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ID_20_A1</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>165</ymin>
+			<xmax>500</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ID_50_A1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>76</ymin>
+			<xmax>317</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ID_100_A1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>18</ymin>
+			<xmax>391</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

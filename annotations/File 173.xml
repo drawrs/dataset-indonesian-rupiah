@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Dataset</folder>
+	<filename>File 173.JPG</filename>
+	<path>/Users/rizalhilman/Final Project/Dataset/File 173.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>340</width>
+		<height>453</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ID_100_A1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>111</ymin>
+			<xmax>311</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>
