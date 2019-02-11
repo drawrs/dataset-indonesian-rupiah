@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>338</xmin>
 			<ymin>1</ymin>
-			<xmax>521</xmax>
-			<ymax>287</ymax>
+			<xmax>508</xmax>
+			<ymax>283</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -33,18 +33,6 @@
 			<ymin>10</ymin>
 			<xmax>673</xmax>
 			<ymax>249</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>ID_50_B1</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>583</xmin>
-			<ymin>138</ymin>
-			<xmax>850</xmax>
-			<ymax>333</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -69,18 +57,6 @@
 			<ymin>42</ymin>
 			<xmax>339</xmax>
 			<ymax>213</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>ID_2_B1</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>87</xmin>
-			<ymin>141</ymin>
-			<xmax>328</xmax>
-			<ymax>346</ymax>
 		</bndbox>
 	</object>
 	<object>

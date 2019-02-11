@@ -1,4 +1,4 @@
-<annotation verified="yes">
+<annotation>
 	<folder>Dataset</folder>
 	<filename>File 333.jpeg</filename>
 	<path>/Users/rizalhilman/Final Project/Dataset/File 333.jpeg</path>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>140</xmin>
+			<xmin>152</xmin>
 			<ymin>137</ymin>
 			<xmax>349</xmax>
-			<ymax>540</ymax>
+			<ymax>538</ymax>
 		</bndbox>
 	</object>
 </annotation>
